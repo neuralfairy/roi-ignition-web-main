@@ -73,7 +73,7 @@ const Footer = () => {
         <div className="border-t border-border mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex flex-wrap items-center gap-6 text-sm">
-              <Link to="#" className="hover:text-primary transition-colors">Privacy Policy</Link>
+              <Link to="/privacy-policy" className="hover:text-primary transition-colors">Privacy Policy</Link>
               <Link to="#" className="hover:text-primary transition-colors">Terms of Service</Link>
               <Link to="#" className="hover:text-primary transition-colors">Cookie Policy</Link>
               <Link to="#" className="hover:text-primary transition-colors">GDPR</Link>
